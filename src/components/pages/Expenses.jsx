@@ -111,12 +111,13 @@ const Expenses = () => {
           start: startOfMonth(now),
           end: endOfMonth(now)
         });
-      case 'lastMonth':
+case 'lastMonth': {
         const lastMonth = new Date(now.getFullYear(), now.getMonth() - 1, 1);
         return isWithinInterval(expenseDate, {
           start: startOfMonth(lastMonth),
           end: endOfMonth(lastMonth)
         });
+      }
       case 'seeds':
       case 'fertilizer':
       case 'equipment':

@@ -125,9 +125,10 @@ const Tasks = () => {
     }
   }).sort((a, b) => {
     switch (sortBy) {
-      case 'priority':
+case 'priority': {
         const priorityOrder = { high: 3, medium: 2, low: 1 };
         return priorityOrder[b.priority] - priorityOrder[a.priority];
+      }
       case 'type':
         return a.type.localeCompare(b.type);
       case 'completed':
