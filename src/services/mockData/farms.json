@@ -1,0 +1,77 @@
+[
+  {
+    "Id": 1,
+    "name": "Sunrise Acres",
+    "location": "Fresno, CA",
+    "size": 150.5,
+    "sizeUnit": "acres",
+    "fields": [
+      {
+        "id": "field-1",
+        "name": "North Field",
+        "size": 45.2,
+        "currentCrop": "corn"
+      },
+      {
+        "id": "field-2",
+        "name": "South Field",
+        "size": 38.7,
+        "currentCrop": "soybeans"
+      },
+      {
+        "id": "field-3",
+        "name": "East Field",
+        "size": 66.6,
+        "currentCrop": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Golden Valley Farm",
+    "location": "Modesto, CA",
+    "size": 89.3,
+    "sizeUnit": "acres",
+    "fields": [
+      {
+        "id": "field-4",
+        "name": "Main Field",
+        "size": 55.0,
+        "currentCrop": "wheat"
+      },
+      {
+        "id": "field-5",
+        "name": "Back Field",
+        "size": 34.3,
+        "currentCrop": "tomatoes"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Green Hills Ranch",
+    "location": "Stockton, CA",
+    "size": 200.0,
+    "sizeUnit": "acres",
+    "fields": [
+      {
+        "id": "field-6",
+        "name": "Lower Field",
+        "size": 75.0,
+        "currentCrop": "lettuce"
+      },
+      {
+        "id": "field-7",
+        "name": "Upper Field",
+        "size": 85.0,
+        "currentCrop": "carrots"
+      },
+      {
+        "id": "field-8",
+        "name": "Hill Field",
+        "size": 40.0,
+        "currentCrop": null
+      }
+    ]
+  }
+]

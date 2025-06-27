@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "type": "corn",
+    "fieldId": "field-1",
+    "plantingDate": "2024-03-15T00:00:00Z",
+    "expectedHarvest": "2024-08-20T00:00:00Z",
+    "status": "growing"
+  },
+  {
+    "Id": 2,
+    "type": "soybeans",
+    "fieldId": "field-2",
+    "plantingDate": "2024-04-01T00:00:00Z",
+    "expectedHarvest": "2024-09-15T00:00:00Z",
+    "status": "flowering"
+  },
+  {
+    "Id": 3,
+    "type": "wheat",
+    "fieldId": "field-4",
+    "plantingDate": "2024-02-20T00:00:00Z",
+    "expectedHarvest": "2024-07-10T00:00:00Z",
+    "status": "ready"
+  },
+  {
+    "Id": 4,
+    "type": "tomatoes",
+    "fieldId": "field-5",
+    "plantingDate": "2024-04-10T00:00:00Z",
+    "expectedHarvest": "2024-08-01T00:00:00Z",
+    "status": "fruiting"
+  },
+  {
+    "Id": 5,
+    "type": "lettuce",
+    "fieldId": "field-6",
+    "plantingDate": "2024-05-01T00:00:00Z",
+    "expectedHarvest": "2024-06-15T00:00:00Z",
+    "status": "growing"
+  },
+  {
+    "Id": 6,
+    "type": "carrots",
+    "fieldId": "field-7",
+    "plantingDate": "2024-03-20T00:00:00Z",
+    "expectedHarvest": "2024-07-20T00:00:00Z",
+    "status": "growing"
+  }
+]

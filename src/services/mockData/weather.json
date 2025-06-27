@@ -1,0 +1,59 @@
+{
+  "current": {
+    "location": "Fresno, CA",
+    "temperature": 78,
+    "condition": "partly cloudy",
+    "humidity": 45,
+    "precipitation": 15,
+    "windSpeed": 8,
+    "uvIndex": 6,
+    "visibility": 10,
+    "isAlert": false
+  },
+  "forecast": [
+    {
+      "day": "Today",
+      "condition": "partly cloudy",
+      "high": 78,
+      "low": 55,
+      "precipitation": 15
+    },
+    {
+      "day": "Tomorrow",
+      "condition": "sunny",
+      "high": 82,
+      "low": 58,
+      "precipitation": 0
+    },
+    {
+      "day": "Monday",
+      "condition": "cloudy",
+      "high": 75,
+      "low": 52,
+      "precipitation": 30
+    },
+    {
+      "day": "Tuesday",
+      "condition": "rain",
+      "high": 68,
+      "low": 48,
+      "precipitation": 85
+    },
+    {
+      "day": "Wednesday",
+      "condition": "partly cloudy",
+      "high": 74,
+      "low": 51,
+      "precipitation": 20
+    }
+  ],
+  "alerts": [
+    {
+      "type": "wind",
+      "severity": "moderate",
+      "title": "Wind Advisory",
+      "description": "Strong winds expected tomorrow afternoon. Avoid spraying operations.",
+      "expires": "2024-06-16T18:00:00Z"
+    }
+  ]
+}

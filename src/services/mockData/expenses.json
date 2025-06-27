@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "category": "seeds",
+    "amount": 450.75,
+    "date": "2024-03-10T00:00:00Z",
+    "description": "Corn seed for north field planting",
+    "farmId": 1
+  },
+  {
+    "Id": 2,
+    "category": "fertilizer",
+    "amount": 280.50,
+    "date": "2024-04-05T00:00:00Z",
+    "description": "Nitrogen fertilizer for wheat crop",
+    "farmId": 2
+  },
+  {
+    "Id": 3,
+    "category": "fuel",
+    "amount": 320.00,
+    "date": "2024-05-15T00:00:00Z",
+    "description": "Diesel fuel for tractors",
+    "farmId": 1
+  },
+  {
+    "Id": 4,
+    "category": "equipment",
+    "amount": 1250.00,
+    "date": "2024-04-20T00:00:00Z",
+    "description": "New irrigation sprinklers",
+    "farmId": 3
+  },
+  {
+    "Id": 5,
+    "category": "pesticides",
+    "amount": 185.25,
+    "date": "2024-05-22T00:00:00Z",
+    "description": "Organic pesticide for tomatoes",
+    "farmId": 2
+  },
+  {
+    "Id": 6,
+    "category": "labor",
+    "amount": 800.00,
+    "date": "2024-06-01T00:00:00Z",
+    "description": "Seasonal workers for harvest",
+    "farmId": 1
+  },
+  {
+    "Id": 7,
+    "category": "seeds",
+    "amount": 175.90,
+    "date": "2024-04-15T00:00:00Z",
+    "description": "Lettuce and carrot seeds",
+    "farmId": 3
+  },
+  {
+    "Id": 8,
+    "category": "maintenance",
+    "amount": 95.50,
+    "date": "2024-05-30T00:00:00Z",
+    "description": "Tractor oil change and maintenance",
+    "farmId": 2
+  },
+  {
+    "Id": 9,
+    "category": "utilities",
+    "amount": 425.75,
+    "date": "2024-06-10T00:00:00Z",
+    "description": "Electricity for irrigation pumps",
+    "farmId": 1
+  },
+  {
+    "Id": 10,
+    "category": "transport",
+    "amount": 150.00,
+    "date": "2024-06-05T00:00:00Z",
+    "description": "Delivery of harvested produce",
+    "farmId": 3
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "title": "Water corn field",
+    "type": "watering",
+    "dueDate": "2024-06-15T08:00:00Z",
+    "priority": "high",
+    "cropId": 1,
+    "completed": false
+  },
+  {
+    "Id": 2,
+    "title": "Apply fertilizer to soybeans",
+    "type": "fertilizing",
+    "dueDate": "2024-06-16T10:00:00Z",
+    "priority": "medium",
+    "cropId": 2,
+    "completed": false
+  },
+  {
+    "Id": 3,
+    "title": "Inspect wheat for pests",
+    "type": "inspection",
+    "dueDate": "2024-06-14T14:00:00Z",
+    "priority": "high",
+    "cropId": 3,
+    "completed": true
+  },
+  {
+    "Id": 4,
+    "title": "Harvest tomatoes",
+    "type": "harvesting",
+    "dueDate": "2024-06-17T06:00:00Z",
+    "priority": "high",
+    "cropId": 4,
+    "completed": false
+  },
+  {
+    "Id": 5,
+    "title": "Weed lettuce rows",
+    "type": "weeding",
+    "dueDate": "2024-06-18T09:00:00Z",
+    "priority": "medium",
+    "cropId": 5,
+    "completed": false
+  },
+  {
+    "Id": 6,
+    "title": "Check irrigation system",
+    "type": "maintenance",
+    "dueDate": "2024-06-19T07:00:00Z",
+    "priority": "low",
+    "cropId": null,
+    "completed": false
+  },
+  {
+    "Id": 7,
+    "title": "Plant new carrot seeds",
+    "type": "planting",
+    "dueDate": "2024-06-20T08:00:00Z",
+    "priority": "medium",
+    "cropId": null,
+    "completed": false
+  },
+  {
+    "Id": 8,
+    "title": "Water vegetable gardens",
+    "type": "watering",
+    "dueDate": "2024-06-13T18:00:00Z",
+    "priority": "medium",
+    "cropId": null,
+    "completed": true
+  }
+]
